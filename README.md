@@ -2,7 +2,7 @@
 
 This repository contains lecture materials, code examples, and practice problems for the course **Program Design I (PD1)** offered by the Department of Computer Science and Information Engineering at **National Cheng Kung University (NCKU)**.
 
-## 🧠 Course Topics
+## Course Topics
 
 The course introduces foundational C programming concepts, including:
 
