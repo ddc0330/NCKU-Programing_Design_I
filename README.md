@@ -19,7 +19,7 @@ The course introduces foundational C programming concepts, including:
   - Structures, unions, and enumerations
   - Linked lists and basic data structure manipulation
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 NCKU-Programing_Design_I/
